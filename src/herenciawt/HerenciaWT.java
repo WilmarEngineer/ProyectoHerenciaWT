@@ -12,8 +12,7 @@ public class HerenciaWT {
           estudiante1.setEdad(16);
           estudiante1.setCarrera("Ingenieria de Software");
           
-   
-          
+          Profesor profesor1 = new Profesor();
     }
     
 }
