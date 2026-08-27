@@ -13,6 +13,9 @@ public class HerenciaWT {
           estudiante1.setCarrera("Ingenieria de Software");
           
           Profesor profesor1 = new Profesor();
+          profesor1.setNombre("William Gil");
+          profesor1.setAsignatura("POO y metodologias de software");
+          
     }
     
 }
