@@ -16,8 +16,8 @@ public class HerenciaWT {
           profesor1.setNombre("William Gil");
           profesor1.setAsignatura("POO y metodologias de software");
           
-          System.out.println("El estudiante " + estudiante1.getNombre() + " estudia " + estudiante1.getCarrera() );
-          System.out.println("El profesor " + profesor1.getNombre() + " ensena " + profesor1.getAsignatura());
+          System.out.println(" El estudiante " + estudiante1.getNombre() + " estudia " + estudiante1.getCarrera() );
+          System.out.println(" El profesor " + profesor1.getNombre() + " ensena " + profesor1.getAsignatura());
     }
     
 }
